@@ -61,15 +61,6 @@
 - Matplotlib
 
 
-## 📂 Project Structure
-
-- house-price-prediction
-  - House_Price_Prediction.ipynb
-  - housing.csv
-  - README.md
-  - LICENSE
-  - .gitignore
-
 
 ## 🔮 Prediction System
 
